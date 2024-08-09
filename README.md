@@ -1,4 +1,4 @@
-# sistemas-op-24p-register
+# Uso de "register" en un programa en C / Linux.
 Código de ejemplo sobre el uso de register en lenguaje C.
 
 ## Output de la ejecución
